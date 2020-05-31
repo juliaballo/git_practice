@@ -7,10 +7,34 @@ body {
     text-align: center;
     margin: auto;
 }
-header h1 {
+
+h1 {
     color: white;
     margin: 20px;
 }
-header a {
+
+h3 {
+    color: #808080;
+    margin: 15px;
+}
+
+a {
     color: #7FFFD4;
+    font-weight: bold;
+}
+
+main video {
+    margin: 20px;
+    width: 200px;
+    height: 350px;
+}
+
+.camp {
+    margin: 15px auto;
+    width: 80%;
+    display: block;
+}
+
+footer h3 {
+    float: right;
 }
